@@ -1,5 +1,8 @@
 <html>
+    
+    <!-- The head contains metadata specifying character set, calling CSS, allowing the page to work with JavaScript, and the webpage title. -->
     <head>
+   
     <meta charset="utf-8">
         <title>My Website</title>
         <meta name="description" content="Chinese Cuisine has been providing the 
