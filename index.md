@@ -1,6 +1,8 @@
+
 <html>
     
     <!-- The head contains metadata specifying character set, calling CSS, allowing the page to work with JavaScript, and the webpage title. -->
+    
     <head>
    
     <meta charset="utf-8">
@@ -11,7 +13,7 @@
     recipes, menus, location">
         <meta name="viewpoint" content="width=device-width, intial-scale=1">
         <link rel="stylesheet" type="text/css"
-    href="css/stylesheet.css">
+    href="stylesheet.css">
         <link
     href="https://fonts.googleapis.com/css2?family=Shadows+Into+Light
     &display=swap" rel="stylesheet"    
