@@ -14,8 +14,7 @@
         <meta name="viewpoint" content="width=device-width, intial-scale=1">
         <link rel="stylesheet" type="text/css"
     href="stylesheet.css">
-        <link
-    href="https://fonts.googleapis.com/css2?family=Shadows+Into+Light
+        <link href="https://fonts.googleapis.com/css2?family=Shadows+Into+Light
     &display=swap" rel="stylesheet"    
 
     </head>
